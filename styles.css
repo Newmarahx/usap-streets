@@ -1,6 +1,7 @@
 .page{
     background-color: black;
-    color:gold
+    color:gold;
+    width:100%;
 }
 .button{
     background-color: lime;
@@ -14,4 +15,8 @@
     padding-right:15px;
     padding-bottom:13px;
     padding-left:12px;
+}
+
+.input{
+    border-radius:10px;
 }
