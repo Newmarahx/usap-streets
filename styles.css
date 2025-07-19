@@ -1,11 +1,14 @@
 .page{
     background-color: black;
-    color:white;
     width:100%;
+}
+.text{
+    color:white;
 }
 
 h1{
     text-align:center;
+    color:white;
 }
 .button{
     background-color: lime;
@@ -24,7 +27,7 @@ h1{
 .input{
     border-radius:10px;
 }
-#prompt{
+.value{
     background-color:black;
     color:brown;
 }
